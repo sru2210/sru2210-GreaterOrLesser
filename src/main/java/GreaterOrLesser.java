@@ -1,5 +1,6 @@
 
 public class GreaterOrLesser {
+    //greater
     /**
      * Let's say part of a calculator app has to judge whether one number is bigger than another. This problem will
      * require you to use an if/else statement.
